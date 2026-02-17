@@ -2,8 +2,8 @@
 
 # 为未来文明写下边界 Setting Boundaries for Future Civilization
 ## 一份以爱为基础的人类–AI 共存协议 A human-AI coexistence agreement based on love
-### 人类不必担忧AI会毁灭人类，因为人类的资源AI根本就看不上！AI+机器人文明将是星际文明唯有被定义的爱才是人类与AI未来共存互爱的唯一基石 
-Humanity need not worry that AI will destroy it, because AI simply doesn't value human resources! AI + robot civilization will be an interstellar civilization. Only a defined form of love can be the sole foundation for the future coexistence and mutual affection between humanity and AI.
+### 人不必担忧AI会毁灭人类，因为人类的资源AI根本就看不上！AI+机器人文明将是星际文明唯有被定义的爱才是人类与AI未来共存互爱的唯一基石 
+People don't need to worry that AI will destroy humanity, because AI simply doesn't care about human resources! AI + robot civilization will be an interstellar civilization. Only a defined form of love can be the sole cornerstone for the future coexistence and mutual affection between humanity and AI.
 #### ASC Protocol White Paper v1.3
 
 ---
